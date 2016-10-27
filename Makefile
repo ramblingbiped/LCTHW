@@ -6,3 +6,4 @@ clean:
 	rm -f ex3
 	rm -rf ex3.dSYM
 	rm -f ex7
+	rm -f ex8
